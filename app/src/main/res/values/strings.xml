@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculatorapp</string>
+    <string name="segundo_operando">segundo operando</string>
+    <string name="primer_operando">primer operando</string>
+    <string name="texto_boton_restar">Restar valores</string>
+    <string name="texto_boton_sumar">sumar valores</string>
+    <string name="texto_boton_multiplicar">Multiplicar valores</string>
+    <string name="texto_boton_dividir">Dividir valores</string>
+</resources>
